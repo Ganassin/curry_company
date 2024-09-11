@@ -1,5 +1,4 @@
 altair==5.4.1
-anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1717693030552/work
 archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1708969572489/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1692818318753/work
 argon2-cffi-bindings @ file:///D:/bld/argon2-cffi-bindings_1695386901052/work
