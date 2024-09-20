@@ -35,6 +35,7 @@ as seguintes métricas de crescimento:
 6. O tempo médio de entrega durantes os Festivais.
 
 ### O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
+### As respostas dessas perguntas estão no arquivo visoes.ipynb
 
 
 # *Premissas assumidas para a análise*
